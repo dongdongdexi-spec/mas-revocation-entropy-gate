@@ -9,7 +9,6 @@ Companion materials for *Controlling Compositional Privacy Leakage After Revocat
 | [English manuscript](manuscript/IEEE_Access_Manuscript_EN_GitHub_Revision.md) | Revised IEEE Access draft with embedded links to both study figures |
 | [Architecture figure](figures/architecture_ieee.pdf) and [privacy–utility figure](figures/budget_sweep_ieee.pdf) | Vector artwork for typesetting |
 | [Evidence archive](evidence/major_revision_evidence.zip) | Frozen synthetic cases, prompts, observed outputs, scores, replay code, and figure source records |
-| [Evidence checksum](evidence/SHA256SUMS.txt) | SHA-256 of the complete original archive |
 
 ## Archive contents
 
@@ -21,7 +20,7 @@ Companion materials for *Controlling Compositional Privacy Leakage After Revocat
 | followup/ | Independent-rewrite replay, local classifier observations, and scripts for recreating the staged experiment workspace |
 | figures/ | Study figures and publication artwork |
 
-The archive preserves provenance fields and internal input hashes. Use the original ZIP when checking the evidence or staging a replay. Start with README.txt and followup/README.md inside the archive.
+Use the original ZIP when checking the evidence or staging a replay. Start with README.txt and followup/README.md inside the archive.
 
 ## Offline verification
 
